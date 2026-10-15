@@ -1,0 +1,5 @@
+/module1-wifi/build
+/module2-i2c-lcd/build
+/module3-isr/queue/build
+/module4-spiffs/build
+

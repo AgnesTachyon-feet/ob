@@ -1,0 +1,2 @@
+source /project/ob/module3-isr-queue/build/bootloader/gdbinit/symbols
+source /project/ob/module3-isr-queue/build/bootloader/gdbinit/connect

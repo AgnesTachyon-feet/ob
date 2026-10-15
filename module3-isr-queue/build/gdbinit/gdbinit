@@ -1,0 +1,2 @@
+source /project/ob/module3-isr-queue/build/gdbinit/symbols
+source /project/ob/module3-isr-queue/build/gdbinit/connect
